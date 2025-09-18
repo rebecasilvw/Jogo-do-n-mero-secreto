@@ -1,2 +1,2 @@
 # Jogo-do-n-mero-secreto
-Joguinho de descobrir o número em Java, projeto iniciante em programação do Alura!
+Joguinho de descobrir o número em JavaScript, projeto iniciante em programação do Alura!
